@@ -1,5 +1,5 @@
 
-# Spring Boot MicroServices Template
+# Spring Boot MicroServices 
 This repository explains in details on how to get Microservices going using Spring Boot, Spring Cloud, Spring OAuth 2 and Netflix OSS frameworks.
 
 # Table of Content
